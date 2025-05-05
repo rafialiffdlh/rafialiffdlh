@@ -4,19 +4,13 @@
 
 ###
 
-
 ###
-
 
 ###
 
 <h3 align="center">Hi 👋 My Name is Rafi Alif Fadhilah and I'm a junior software developer from Tangsel</h3>
 
 ###
-
-
-
-
 
 ###
 
@@ -63,6 +57,9 @@
 <img src="https://raw.githubusercontent.com/rafialiffdlh/rafialiffdlh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafialiffdlh/rafialiffdlh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafialiffdlh/rafialiffdlh/output/pacman-contribution-graph.svg">
@@ -70,4 +67,5 @@
 </picture>
 
 ###
+
 ###
